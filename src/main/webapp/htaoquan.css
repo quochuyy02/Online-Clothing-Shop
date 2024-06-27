@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.clothing-ctn {
+	display:flex;
+	justify-content:space-evenly;
+	align-items: center;
+	flex-wrap:wrap;
+}
+.clothing-item {
+	display:flex;
+	flex-flow:column nowrap;
+	align-items: center;
+	justify-content:center;
+}
+
